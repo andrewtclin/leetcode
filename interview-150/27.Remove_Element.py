@@ -8,3 +8,4 @@ def removeElement(nums: List[int], val: int) -> int:
                 pointer += 1
         return pointer
 
+#[3.2.2.3]
